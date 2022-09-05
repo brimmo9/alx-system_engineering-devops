@@ -1,1 +1,1 @@
-cat 0-hello_world | fmt | pr | lpr
+echo Hello, World
